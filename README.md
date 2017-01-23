@@ -6,7 +6,6 @@
 
 -   [ga-wdi-boston/html-css](https://github.com/ga-wdi-boston/html-css)
 -   [ga-wdi-boston/html-css-layout](https://github.com/ga-wdi-boston/html-css-layout)
--   [ga-wdi-boston/js-template](https://github.com/ga-wdi-boston/js-template)
 
 ## Objectives
 
