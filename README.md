@@ -18,6 +18,7 @@
 
 1.  [Fork and clone](https://github.com/ga-wdi-boston/meta/wiki/ForkAndClone)
     this repository.
+1.  Create and checkout a new branch (training).
 1.  Install dependencies with `npm install`.
 
 ## Sass
@@ -218,7 +219,7 @@ than `tiny`.
 
 1. Import your the Sass module that has your mixin.
 2. Choose the selector you want to apply the mixin to.
-3. Use `@include` to use your mixin. 
+3. Use `@include` to use your mixin.
 
 ## Best Practices
 
